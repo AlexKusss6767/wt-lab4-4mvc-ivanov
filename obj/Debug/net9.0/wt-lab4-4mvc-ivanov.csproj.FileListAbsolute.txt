@@ -17,7 +17,6 @@ C:\Users\aleks\Desktop\WT\wt-lab4-4mvc-ivanov\obj\Debug\net9.0\wt-lab4-4mvc-ivan
 C:\Users\aleks\Desktop\WT\wt-lab4-4mvc-ivanov\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
 C:\Users\aleks\Desktop\WT\wt-lab4-4mvc-ivanov\obj\Debug\net9.0\scopedcss\bundle\wt-lab4-4mvc-ivanov.styles.css
 C:\Users\aleks\Desktop\WT\wt-lab4-4mvc-ivanov\obj\Debug\net9.0\scopedcss\projectbundle\wt-lab4-4mvc-ivanov.bundle.scp.css
-C:\Users\aleks\Desktop\WT\wt-lab4-4mvc-ivanov\obj\Debug\net9.0\compressed\refpnjgd8e-b9sayid5wm.gz
 C:\Users\aleks\Desktop\WT\wt-lab4-4mvc-ivanov\obj\Debug\net9.0\compressed\5gvxj0i7ff-61n19gt1b8.gz
 C:\Users\aleks\Desktop\WT\wt-lab4-4mvc-ivanov\obj\Debug\net9.0\compressed\rgxvhfb6m8-xtxxf3hu2r.gz
 C:\Users\aleks\Desktop\WT\wt-lab4-4mvc-ivanov\obj\Debug\net9.0\compressed\dz9nrjau1b-bqjiyaj88i.gz
@@ -95,3 +94,5 @@ C:\Users\aleks\Desktop\WT\wt-lab4-4mvc-ivanov\obj\Debug\net9.0\refint\wt-lab4-4m
 C:\Users\aleks\Desktop\WT\wt-lab4-4mvc-ivanov\obj\Debug\net9.0\wt-lab4-4mvc-ivanov.pdb
 C:\Users\aleks\Desktop\WT\wt-lab4-4mvc-ivanov\obj\Debug\net9.0\wt-lab4-4mvc-ivanov.genruntimeconfig.cache
 C:\Users\aleks\Desktop\WT\wt-lab4-4mvc-ivanov\obj\Debug\net9.0\ref\wt-lab4-4mvc-ivanov.dll
+C:\Users\aleks\Desktop\WT\wt-lab4-4mvc-ivanov\obj\Debug\net9.0\wt-lab4-4mvc-ivanov.sourcelink.json
+C:\Users\aleks\Desktop\WT\wt-lab4-4mvc-ivanov\obj\Debug\net9.0\compressed\refpnjgd8e-2k62c26ocb.gz

@@ -7,8 +7,12 @@
 <div class="container py-4">
     <div class="card shadow-sm rounded-4">
         <div class="card-body">
-            <h1 class="card-title">@Model.Name</h1>
-            <h6 class="card-subtitle mb-2 text-muted">ID: @Model.Id</h6>
+            <h1 class="card-title">
+    <i class="bi bi-box-seam text-primary"></i> @Model.Name
+</h1>
+            <h6 class="card-subtitle mb-3 text-muted">
+    <i class="bi bi-hash"></i> ID: @Model.Id
+</h6>
             <p class="card-text"><strong>Категория:</strong> @Model.Category</p>
             <p class="card-text"><strong>Цена:</strong> @Model.Price руб.</p>
             <p class="card-text"><strong>Описание:</strong> @Model.Description</p>

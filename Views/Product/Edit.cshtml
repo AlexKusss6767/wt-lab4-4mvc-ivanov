@@ -9,7 +9,9 @@
         <div class="col-md-6">
             <div class="card shadow-sm rounded-4">
                 <div class="card-body">
-                    <h2 class="mb-4">Редактирование товара</h2>
+                    <h2 class="mb-4 text-center">
+    <i class="bi bi-pencil-square text-primary"></i> Редактирование товара
+</h2>
                     <form asp-action="Edit" method="post">
                         <div asp-validation-summary="ModelOnly" class="text-danger"></div>
                         <input type="hidden" asp-for="Id" />
